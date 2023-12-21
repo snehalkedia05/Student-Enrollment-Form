@@ -10,4 +10,5 @@
 ##### 4)Real-Time Database Management 
 ##### 5)Schema-free
 #### Screenshots-
+![Output 2](https://github.com/snehalkedia05/Student-Enrollment-Form/assets/114679537/b2c26a0c-12e2-425b-b022-4557c0ecb3b4)
 ![Output](https://github.com/snehalkedia05/Student-Enrollment-Form/assets/114679537/33455fb0-e875-40fa-92ef-5a39b25a6ae5)
